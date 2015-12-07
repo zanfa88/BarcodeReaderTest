@@ -45,6 +45,7 @@ public class BarcodeScanner extends AppCompatActivity {
                 } catch (IOException ie) {
                     Log.e("CAMERA SOURCE", ie.getMessage());
                 }
+                //asdasd
             }
 
             @Override
