@@ -23,7 +23,6 @@
         android:text="Scanning..."
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:textColor="#fff"
         />
 
 </RelativeLayout>
